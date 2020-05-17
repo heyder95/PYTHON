@@ -1,2 +1,2 @@
 # python
-it will be test repository
+it will be sales data  repository
